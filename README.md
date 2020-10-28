@@ -2,9 +2,6 @@
 <a href="https://discord.gg/dbcdAMq">
   <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://zeronitrogen.cf">
-  <img align="left" alt="Pringles's Unchecked Nitro Code Gen Website" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
-</a>
  <a href="https://github.com/FakePringlesJr">
   <img align="left" alt="PringlesJr's'Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
