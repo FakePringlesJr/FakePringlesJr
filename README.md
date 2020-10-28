@@ -24,8 +24,8 @@ I am a nobody ig
  
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PringlesJr&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PringlesJr&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakePringlesJr&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FakePringlesJr&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
 </p>
 
 *PS: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github*
@@ -33,4 +33,5 @@ I am a nobody ig
 <br />
 
 ⚡ Fun fact <br>
-“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
+“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.”
+— Norman Augustine
