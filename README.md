@@ -12,7 +12,7 @@
 
 I am a nobody ig
 - 🌱 I’m currently stuck at home!
-- 📫 My Discord ID? Here: 🎃 Spooky Grinch 🎃#3034
+- 📫 My Discord ID? Here: ! 0xKr0n0z ٴٴٴٴٴٴٴٴ#1337
 - 🥅 My Goals Right Now: Nothing (will have something soon....)
 
 **Languages and Tools:** &nbsp;
